@@ -19,3 +19,28 @@
 15. China has loaned about 140 billion dollars to African countries between 2000 in 2017,
 16. according to data from Washington's Johns Hopkins University School of Advanced International Studies.
 
+
+## How Artificial Intelligence is Powering the US Open
+
+1. The crowds arrive daily at Flushing Meadows Park in Queens.
+2. It's the US Open and all eyes are on the top tennis players in the world.
+3. With 254 matches just in the men's and women's singles tournaments, it's a lot to keep up with,
+4. but behind the scenes, IBM technology is doing just that.
+5. So this gets updated at the end of that points. We see how Watson evaluate at that point.
+6. With so much data to sort through, IBM is employing its artificial intelligence software Watson to help.
+7. In addition to delivering scores, Watson also scans game footage. It listens to the roar of the crowd.
+8. We've trained it to look for fist pumps and gestures of the players as well as to look for facial expressions.
+9. All of that contextual data is used to measure the momentum of any given match in update fans after each shot.
+10. A few years ago, we didn't;t really perceive video as data, but it really is.
+11. There's 17 courts, so it's a lot of action, it's a lot of video for the editors to digest.
+12. so now that you can quickly identify the most exciting moments and turn it around in near real time for fans.
+13. These highlights aren't just for fans. Coaches also use them to prepare players.
+14. In the past, it was a really labor-intensive process where the matches had to be manually tagged.
+15. and by tagging, I mean somebody goes through the video footage and makes a note of every forehand, every backhand, every unforced error.
+16. It takes hours and hours. Watson's artificial intelligence processes and indexes video in minutes, freeing up valuable time for personalized coaching.
+17. If the coach has a certain pattern in mind that they think will be effective in the next match,
+18. we can generate a playlist that shows the player executing those patterns and really reinforce and ingrain that in their mind.
+19. Player's facial expressions and body language can also be correlated to their performance.
+20. Even the way their grunting, there's certain trends and you know sometimes, they are counter intuitive, some players play better when they get a little bit angry, when they get a little upset.
+21. With the help of artificial intelligence, perhaps getting a little upset will lead to more upsets on the court.
+
