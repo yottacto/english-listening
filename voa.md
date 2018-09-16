@@ -44,3 +44,27 @@
 20. Even the way their grunting, there's certain trends and you know sometimes, they are counter intuitive, some players play better when they get a little bit angry, when they get a little upset.
 21. With the help of artificial intelligence, perhaps getting a little upset will lead to more upsets on the court.
 
+
+## Officials Urge Evacuation Before Unpredictable Hurricane
+
+1. South Carolina's coast looked serene on Wednesday but the picture may be quite different on Friday morning.
+2. Hurricane Florence is expected to be a long-duration high-impact event for much of South Carolina, including areas well inland from the coast.
+3. Officials warned coastal residents to leave while they still can because there may not be any help available if they need it after the storm.
+4. Florence comes with strong winds that are bound to topple trees, break electric lines and damaged roofs even in places well away from the coast.
+5. That's the biggest thing when it comes to hurricanes is worrying about, the wind-driven rain.
+6. And what could actually be torn off especially like the bottom part of your roof and whatnot; it doesn't matter.
+7. If these power lines are gonna come down, it's gonna be, it's gonna be pretty bad.
+8. North Carolina is projected to be the hardest hit, but officials warned that Florence is unpredictable and could still change course.
+9. Coastal residents have boarded their homes and took what precautions they could before heading inland.
+10. Right now it's anxiety and adrenaline to do what we can.
+11. Not really fear because there's not a lot we control at the point, but it's the unknown that we're worried about.
+12. They're not knowing what's coming and when will it come and how it'll come.
+13. US president Donald Trump said the government is well prepared for the storm.
+14. We're ready, we're able, we've got the finest people, I think, anywhere in the world.
+15. just two months ago, the Trump administration transferred nearly 10 million dollars from the Federal Emergency Management Agency.
+16. to the Immigration and Customs Enforcement to help fund the deportation of illegal immigrants.
+17. A female official said Wednesday, this will not affect the agency's response to the storm.
+18. We have plenty of resources to respond. We have plenty of resources to recover that has not impacted our situation whatsoever.
+19. Both FEMA and ICE are part of Department of Homeland Security.
+20. and the transfer is legal but critics object to the transfer of funds ride before hurricane season.
+
